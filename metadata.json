@@ -1,0 +1,8 @@
+{
+  "name": "tHeHoRiZon",
+  "description": "Accelerating discovery, reimagining learning, and building a more accessible world.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
